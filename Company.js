@@ -28,7 +28,7 @@ class Company {
         return `${this.name} has ${this.department.length} employees`;
     }
 }
-
+// Creating a menu 
 class Menu {
     constructor() {
         this.companies = [];
